@@ -137,7 +137,7 @@ The Music Collaborators App seeks to revolutionize the music industry by facilit
 
 
 
-----------------------------------------------------------------
+--------------------EX TRA INFORMATOIN--------------------------------------------
 ## Free Platform Access:
 
 ## Allow users to access and use the basic features of the platform for free. This can include profile creation, collaboration discovery, and basic project management tools.
