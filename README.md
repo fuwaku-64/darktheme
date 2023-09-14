@@ -453,32 +453,36 @@ The Music Collaborators App seeks to revolutionize the music industry by facilit
 
 src/
 |-- app/
-|   |-- store.js                // Redux store configuration
+|   |-- store.js
 |-- components/
-|   |-- common/                 // Reusable components (e.g., buttons, forms)
+|   |-- common/
 |   |-- feature1/
-|   |   |-- Feature1.js         // Component specific to Feature 1
-|   |   |-- Feature1Slice.js    // Redux slice for Feature 1
+|   |   |-- Feature1.js
+|   |   |-- Feature1Slice.js
 |   |-- feature2/
-|   |   |-- Feature2.js         // Component specific to Feature 2
-|   |   |-- Feature2Slice.js    // Redux slice for Feature 2
+|   |   |-- Feature2.js
+|   |   |-- Feature2Slice.js
 |-- features/
 |   |-- auth/
-|   |   |-- authSlice.js        // Redux slice for authentication
-|   |   |-- Auth.js             // Authentication-related components
+|   |   |-- authSlice.js
+|   |   |-- Auth.js
 |   |-- project/
-|   |   |-- projectSlice.js     // Redux slice for project management
-|   |   |-- ProjectList.js      // Component for listing projects
-|   |   |-- ProjectDetail.js    // Component for project details
+|   |   |-- projectSlice.js
+|   |   |-- ProjectList.js
+|   |   |-- ProjectDetail.js
+|-- pages/
+|   |-- Home.js                // Home page
+|   |-- Login.js               // Login page
+|   |-- ProjectListPage.js     // Page for listing projects
+|   |-- ProjectDetailPage.js   // Page for project details
 |-- routes/
-|   |-- AppRouter.js            // App's main router
-|   |-- PrivateRoute.js         // Custom route component for authenticated routes
+|   |-- AppRouter.js
+|   |-- PrivateRoute.js
 |-- styles/
-|   |-- global.css              // Global CSS styles
 |-- utils/
-|   |-- api.js                  // API-related utilities (axios configuration, etc.)
-|-- App.js                      // Main component
-|-- index.js                    // Entry point
+|-- App.js
+|-- index.js
+
 
 Explanation of the folder structure:
 
