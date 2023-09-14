@@ -1,7 +1,4 @@
-# darktheme
-
-
-# Music Collaborators App UI/UX Design Document
+# darktheme # Music Collaborators App 
 
 ## Introduction
 
