@@ -440,6 +440,9 @@ Developing a Music Collaborators App requires a combination of web technologies 
 
 18. **Continuous Integration and Continuous Deployment (CI/CD):**
     - Implement CI/CD pipelines using tools like Jenkins, Travis CI, or GitHub Actions for automated testing and deployment.
+    - DistroKid API:
+
+**DistroKid is known for its user-friendly and affordable music distribution service**. They provide an API that allows developers to integrate music distribution functionality directly into their applications. DistroKid is recognized for its simplicity and speed in getting music onto major streaming platforms.
 
 
 ## Conclusion
