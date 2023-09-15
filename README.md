@@ -559,8 +559,6 @@ Certainly! Based on the features and functionalities discussed, here's a list of
 
 These pages cover essential aspects of your music collaboration app, from user authentication and profile management to project creation, communication, and music discovery. You can adapt and expand upon this list as needed to fulfill your app's unique requirements and user experience goals.
 
-
-
 ## DETAILS 
 Certainly! Here's a detailed description of the major pages for your music collaboration app, including what should be done on each page:
 
